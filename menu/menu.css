@@ -1,0 +1,18 @@
+nav a{
+   
+    height: 50px;
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 10px;
+    background: #9c27b0;
+    color: white;
+    text-decoration: none;
+    font-size: 1.4em;
+    font-family: sans-serif;
+}
+nav{
+    background: #9c27b0;
+}
+nav a:hover{
+    background: orange;
+}
